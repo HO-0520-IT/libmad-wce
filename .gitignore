@@ -1,0 +1,17 @@
+/config.log
+/config.status
+/config.h
+/libmad.list
+/libtool
+/stamp-h1
+Makefile
+
+*.la
+*.lai
+*.a
+*.lo
+*.o
+*.exe
+
+
+/.deps/
